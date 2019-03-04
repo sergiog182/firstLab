@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<order provider="DHL" test="true">
+	<id>3</id>
+	<name>Gloria Sanchez</name>
+	<country>UK</country>
+	<total>1758</total>
+</order>

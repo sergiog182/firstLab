@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<order provider="SERVIENTREGA" test="false">
+	<id>2</id>
+	<name>Andres Rivera</name>
+	<country>CO</country>
+	<total>485000</total>
+</order>

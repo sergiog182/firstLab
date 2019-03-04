@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<order provider="DHL" test="false">
+	<id>1</id>
+	<name>Sergio Gutierrez</name>
+	<country>CO</country>
+	<total>1820000</total>
+</order>
